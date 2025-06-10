@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Alexis Campailla",
+    "tz": "Spain"
+  },
+  {
+    "name": "João Reis",
+    "tz": "Portugal"
+  },
+  {
+    "name": "Jaime Bernardo",
+    "tz": "Portugal"
+  },
+  {
+    "name": "Stefan Marković",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Serafima",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Toby Rawlinson",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Mykhailo Pylyp",
+    "tz": "Ukraine"
+  },
+  {
+    "name": "Dragos Daian",
+    "tz": "Spain"
+  },
+  {
+    "name": "Filip Proborszcz",
+    "tz": "Poland"
+  },
+  {
+    "name": "Michael DeCerbo",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Roko Fakleš",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Elias Najjar",
+    "tz": "Lebanon"
+  },
+  {
+    "name": "Jelena Uroic",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Sergio Dominici",
+    "tz": "Spain"
+  },
+  {
+    "name": "Marek Zoremba",
+    "tz": "Poland"
+  },
+  {
+    "name": "Artur Yapparov",
+    "tz": "Belarus"
+  },
+  {
+    "name": "Luka Dragun",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Veronika Bagarić",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Vadym Khortiuk",
+    "tz": "Ukraine"
+  },
+  {
+    "name": "Daniel Proskurka",
+    "tz": "Turkey"
+  },
+  {
+    "name": "Stefan Stojanovic",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Taras Sich",
+    "tz": "Poland"
+  },
+  {
+    "name": "Željko Udovčić",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Ionuț Manța",
+    "tz": "Romania"
+  },
+  {
+    "name": "Adam Kaczmarek",
+    "tz": "Poland"
+  },
+  {
+    "name": "Hüseyin Açacak",
+    "tz": "Turkey"
+  },
+  {
+    "name": "Munduz Subanov",
+    "tz": "Kyrgyzstan"
+  },
+  {
+    "name": "Laszlo Nemeth",
+    "tz": "Hungary"
+  },
+  {
+    "name": "Branimir Lazarević",
+    "tz": "Bosnia and Herzegovina"
+  },
+  {
+    "name": "Anirudha Shankar",
+    "tz": "Spain"
+  },
+  {
+    "name": "Adnan Shahzad",
+    "tz": "Pakistan"
+  },
+  {
+    "name": "Marcell Csomor",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Alpár Rákosi",
+    "tz": "Romania"
+  },
+  {
+    "name": "Mike Wright",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Pjero Nizetic",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Nikola Jecmenica",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Mykola Kotsabiuk",
+    "tz": "Ukraine"
+  },
+  {
+    "name": "Domagoj Pluscec",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Vedran Grudenic",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Diego Lopez Recas",
+    "tz": "Spain"
+  },
+  {
+    "name": "Luka",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Marius",
+    "tz": "Romania"
+  },
+  {
+    "name": "Mario Stalder",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "João Guarda",
+    "tz": "Portugal"
+  },
+  {
+    "name": "Melisa Bahonjic",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Alexander Yarmolovich",
+    "tz": "Poland"
+  },
+  {
+    "name": "Mariana Grebeniuk",
+    "tz": "Romania"
+  },
+  {
+    "name": "Stefan Regoje",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Oleksandr Shtuka",
+    "tz": "United States"
+  },
+  {
+    "name": "Nemanja Crnoglavac",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Emre Hızlı",
+    "tz": "Turkey"
+  },
+  {
+    "name": "Lazar Pejic",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Madalina Boca",
+    "tz": "Romania"
+  },
+  {
+    "name": "Mirza Baig",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Sergey Cujba",
+    "tz": "Poland"
+  },
+  {
+    "name": "Benedetto",
+    "tz": "Italy"
+  },
+  {
+    "name": "Lovro Markovic",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Vladimir Rodic",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Dilyana",
+    "tz": "Bulgaria"
+  },
+  {
+    "name": "Lilla Szabo",
+    "tz": "Serbia"
+  },
+  {
+    "name": "Mihai Moglan",
+    "tz": "Moldova"
+  },
+  {
+    "name": "Nikos Provatas",
+    "tz": "Greece"
+  },
+  {
+    "name": "Hubert",
+    "tz": "Poland"
+  },
+  {
+    "name": "Anastasiia",
+    "tz": "Asia/Jerusalem"
+  },
+  {
+    "name": "Karol",
+    "tz": "Poland"
+  },
+  {
+    "name": "Federico",
+    "tz": "Italy"
+  },
+  {
+    "name": "Filip Tolic",
+    "tz": "Croatia"
+  },
+  {
+    "name": "Zak (BigFilter)",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Emanuele Antonioni",
+    "tz": "Italy"
+  },
+  {
+    "name": "Bill Sanders",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Antonio Silva",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Thanos Tagaris",
+    "tz": "Greece"
+  },
+  {
+    "name": "Isabelle Eler",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Yevhen",
+    "tz": "Poland"
+  }
+]

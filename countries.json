@@ -1,0 +1,102 @@
+{
+  "Europe/Amsterdam": {
+    "position": [4.9041, 52.3676, 0],
+    "color": "ORANGE"
+  },
+  "Europe/London": {
+    "position": [-0.1276, 51.5074, 0],
+    "color": "TEAL"
+  },
+  "America/Los_Angeles": {
+    "position": [-118.2437, 34.0522, 0],
+    "color": "CYAN"
+  },
+  "Asia/Jerusalem": {
+    "position": [35.2137, 31.7683, 0],
+    "color": "BLUE"
+  },
+  "America/New_York": {
+    "position": [-74.006, 40.7128, 0],
+    "color": "VIOLET"
+  },
+  "America/Chicago": {
+    "position": [-87.6298, 41.8781, 0],
+    "color": "GOLD"
+  },
+   "Portugal": {
+    "position": [-9.1393, 38.7223, 0],
+    "color": "PINK"
+  },
+  "Serbia": {
+    "position": [20.4489, 44.7866, 0],
+    "color": "LIME"
+  },
+  "Ukraine": {
+    "position": [30.5234, 50.4501, 0],
+    "color": "SKYBLUE"
+  },
+  "Italy": {
+    "position": [12.4964, 41.9028, 0],
+    "color": "TOMATO"
+  },
+  "Spain": {
+    "position": [-3.7038, 40.4168, 0],
+    "color": "YELLOWGREEN"
+  },
+  "Poland": {
+    "position": [21.0122, 52.2297, 0],
+    "color": "RED"
+  },
+  "Lebanon": {
+    "position": [35.5018, 33.8938, 0],
+    "color": "PURPLE"
+  },
+  "Belarus": {
+    "position": [27.5619, 53.9023, 0],
+    "color": "DARKGREEN"
+  },
+  "Croatia": {
+    "position": [15.9819, 45.8150, 0],
+    "color": "CORAL"
+  },
+  "Turkey": {
+    "position": [32.8597, 39.9334, 0],
+    "color": "FORESTGREEN"
+  },
+  "Romania": {
+    "position": [26.1025, 44.4268, 0],
+    "color": "DODGERBLUE"
+  },
+  "Kyrgyzstan": {
+    "position": [74.5698, 42.8746, 0],
+    "color": "GREENYELLOW"
+  },
+  "Hungary": {
+    "position": [19.0402, 47.4979, 0],
+    "color": "CHARTREUSE"
+  },
+  "Bosnia and Herzegovina": {
+    "position": [18.4131, 43.8563, 0],
+    "color": "LIGHTSLATEGRAY"
+  },
+  "Pakistan": {
+    "position": [67.0099, 24.8615, 0],
+    "color": "DARKKHAKI"
+  },
+  "United States": {
+    "position": [-98.5795, 39.8283, 0],
+    "color": "VIOLET"
+  },
+  "Bulgaria": {
+    "position": [23.3219, 42.6977, 0],
+    "color": "MEDIUMPURPLE"
+  },
+  "Greece": {
+    "position": [23.7275, 37.9838, 0],
+    "color": "DARKTURQUOISE"
+  },
+  "Moldova": {
+    "position": [28.8353, 47.0105, 0],
+    "color": "DARKORCHID"
+  }
+}
