@@ -21,7 +21,7 @@
   },
   {
     "name": "Toby Rawlinson",
-    "tz": "America/Los_Angeles"
+    "tz": "United States"
   },
   {
     "name": "Mykhailo Pylyp",
@@ -37,11 +37,11 @@
   },
   {
     "name": "Michael DeCerbo",
-    "tz": "America/New_York"
+    "tz": "United States"
   },
   {
     "name": "Roko Fakleš",
-    "tz": "Europe/Amsterdam"
+    "tz": "Croatia"
   },
   {
     "name": "Elias Najjar",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Jelena Uroic",
-    "tz": "Europe/Amsterdam"
+    "tz": "Croatia"
   },
   {
     "name": "Sergio Dominici",
@@ -69,7 +69,7 @@
   },
   {
     "name": "Veronika Bagarić",
-    "tz": "Europe/Amsterdam"
+    "tz": "Croatia"
   },
   {
     "name": "Vadym Khortiuk",
@@ -125,7 +125,7 @@
   },
   {
     "name": "Marcell Csomor",
-    "tz": "Serbia"
+    "tz": "Hungary"
   },
   {
     "name": "Alpár Rákosi",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Mike Wright",
-    "tz": "Europe/London"
+    "tz": "UK"
   },
   {
     "name": "Pjero Nizetic",
@@ -165,11 +165,11 @@
   },
   {
     "name": "Marius",
-    "tz": "Romania"
+    "tz": "UK"
   },
   {
     "name": "Mario Stalder",
-    "tz": "America/New_York"
+    "tz": "United States"
   },
   {
     "name": "João Guarda",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Melisa Bahonjic",
-    "tz": "Europe/Amsterdam"
+    "tz": "Croatia"
   },
   {
     "name": "Alexander Yarmolovich",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Mariana Grebeniuk",
-    "tz": "Romania"
+    "tz": "Ukraine"
   },
   {
     "name": "Stefan Regoje",
@@ -213,7 +213,7 @@
   },
   {
     "name": "Mirza Baig",
-    "tz": "America/Chicago"
+    "tz": "United States"
   },
   {
     "name": "Sergey Cujba",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Lilla Szabo",
-    "tz": "Serbia"
+    "tz": "Hungary"
   },
   {
     "name": "Mihai Moglan",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Anastasiia",
-    "tz": "Asia/Jerusalem"
+    "tz": "Ukraine"
   },
   {
     "name": "Karol",
@@ -269,7 +269,7 @@
   },
   {
     "name": "Zak (BigFilter)",
-    "tz": "Europe/Amsterdam"
+    "tz": "Switzerland"
   },
   {
     "name": "Emanuele Antonioni",
@@ -277,11 +277,11 @@
   },
   {
     "name": "Bill Sanders",
-    "tz": "America/Los_Angeles"
+    "tz": "United States"
   },
   {
     "name": "Antonio Silva",
-    "tz": "Europe/London"
+    "tz": "Portugal"
   },
   {
     "name": "Thanos Tagaris",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Isabelle Eler",
-    "tz": "Europe/Amsterdam"
+    "tz": "Portugal"
   },
   {
     "name": "Yevhen",
